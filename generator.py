@@ -15,3 +15,6 @@ shoutout.listjob()
 
 # Work with a recruiter who will understand you
 # Richard Eby aka The Coding Recruiter
+
+#python jobs
+#jobs = {'1150146' : ['Python Developer', 'King of Prussia, PA', 'Greenphire Corporation'], '1149696': ['Python Developer', 'San Francisco, CA', 'Verily Life Sciences'], '1148322' : ['Python Developer', 'Charlotte, NC', 'LeanTaaS'], '1145651': ['Junior Python Developer', 'McClean, VA', 'Gannett']}
