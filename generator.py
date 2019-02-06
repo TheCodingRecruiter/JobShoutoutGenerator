@@ -8,7 +8,7 @@ class Openings:
             self.title = value[0]
             self.location = value[1]
             self.company = value[2]
-            print('Job Listing ' + str(key) + ': ' + str(value[0]) + 'located in ' + str(value[1]) + ' working for ' + str(value[2]) + '. Apply today if you are interested!')
+            print('Job Listing ' + str(key) + ': ' + str(value[0]) + ' located in ' + str(value[1]) + ' working for ' + str(value[2]) + '. Apply today if you are interested!')
 
 shoutout = Openings()
 shoutout.listjob()
